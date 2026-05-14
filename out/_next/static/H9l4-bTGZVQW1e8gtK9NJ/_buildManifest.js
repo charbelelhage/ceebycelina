@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/ceebycelina//_next/:path+",
+        "destination": "/ceebycelina/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
