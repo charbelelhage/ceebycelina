@@ -2,12 +2,15 @@
 const nextConfig = {
   output: "export",
 
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  basePath: "/ceebycelina",
+  assetPrefix: "/ceebycelina/",
 
   images: {
     unoptimized: true,
+  },
+
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 
