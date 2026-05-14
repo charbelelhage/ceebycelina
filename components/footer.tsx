@@ -8,7 +8,7 @@ export function Footer() {
       <div className="container mx-auto px-6">
         <div className="flex flex-col items-center gap-6">
           <Image
-            src="/logo.png"
+            src="logo.png"
             alt="Cee Music School"
             width={120}
             height={120}

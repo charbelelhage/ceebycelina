@@ -24,7 +24,7 @@ export function Hero() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Image
-              src="/logo.png"
+              src="logo.png"
               alt="Cee Music School Logo"
               width={400}
               height={400}

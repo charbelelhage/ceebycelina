@@ -1,3 +1,3 @@
 :HL["/ceebycelina/_next/static/chunks/0.7_wg1k3b4im.css","style"]
 :HL["/ceebycelina/_next/static/chunks/0odwl5h5mln92.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"H9l4-bTGZVQW1e8gtK9NJ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"E1lAouhVYU6x1FPcx-sm6"}
